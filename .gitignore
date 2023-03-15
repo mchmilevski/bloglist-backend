@@ -1,0 +1,8 @@
+node_modules
+.DS_STORE
+.env
+fly.toml
+Dockerfile
+.dockerignore
+build/
+.vscode/
