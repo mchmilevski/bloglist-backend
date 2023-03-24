@@ -42,7 +42,6 @@ const userExtractor = async (request, response, next) => {
     request['user'] = user
   }
 
-
   next()
 }
 
